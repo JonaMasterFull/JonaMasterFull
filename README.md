@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonaMasterFull
+- 👋 Hi, I’m Jonathan Aldair
 - 👀 I’m interested in ... Node Js, React, Next Js, Docker, Vite
 - 🌱 I’m currently learning ... Node Js, React, Vite, JWT, Mongo Atlas
 - 🤔 I’m looking for help with ... Docker, Next Js, Nest js
