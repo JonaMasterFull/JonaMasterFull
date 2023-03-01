@@ -1,3 +1,6 @@
+# Hello, I'm Jonathan Aldair 👋💻🌐
+Full Stack Developer
+
 - 👋 Hi, I’m Jonathan Aldair
 - 👀 I’m interested in ... Node Js, React and Angular
 - 🌱 I’m currently learning ... Node Js, React, Vite, JWT, Mongo Atlas
