@@ -1,5 +1,7 @@
-# Hello, I'm Jonathan Aldair 👋💻🌐
-Full Stack Developer
+<h1 align="center"> Hello, I'm Jonathan Aldair 👋💻🌐</h1>
+<p align="center">Full Stack Web Developer</p>
+
+Welcome to my Github.🚀☄️🔥. I'm a technology enthusiast and I really enjoy programming and participating in projects. I learned to program at the age of 17 and my passion for learning is in constant motion.
 
 - 👋 Hi, I’m Jonathan Aldair
 - 👀 I’m interested in ... Node Js, React and Angular
