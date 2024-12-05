@@ -8,7 +8,7 @@ Welcome to my Github.🚀☄️🔥. I'm a technology enthusiast and I really en
 - 👋 Hi, I’m Jonathan Aldair
 - 👀 I’m interested in ... Node Js, React and Angular
 - 🌱 I’m currently learning ... Node Js, React, Vite, JWT, Mongo Atlas, Learning English now
-- 🤔 I’m looking for help with ... Docker, Next Js, Nest js
+- 🤔 I’m looking for help with ... Docker, Next Js, Nest js, Devops
 - 😁Hobbies : Music 🎧 | Movies :🎬 | Meal 🌮 | VideoGames 🎮
 - 💬 Ask me about ... Anything, if I don't know the answer I will investigate it
 - 💞️ I’m looking to collaborate on ... Blue Diamond Innovation, Freelancer
