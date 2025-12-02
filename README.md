@@ -6,10 +6,10 @@ Welcome to my Github.🚀☄️🔥. I'm a technology enthusiast and I really en
 ### About😎
 
 - 👋 Hi, I’m Jonathan Aldair
-- 👀 I’m interested in ... Node Js, React and Angular
+- 👀 I’m interested in ... Node Js, React and Next Js
 - 🌱 I’m currently learning ... Node Js, React, Vite, JWT, Mongo Atlas, Learning English now
-- 🤔 I’m looking for help with ... Docker, Next Js, Nest js, Devops
-- 😁Hobbies : Music 🎧 | Movies :🎬 | Meal 🌮 | VideoGames 🎮
+- 🤔 I’m looking for help with ... Docker, Next Js, Nest js, Devops, AWS
+- 😁Hobbies : Music 🎧 | Movies 🎬 | Meal 🌮 | VideoGames 🎮
 - 💬 Ask me about ... Anything, if I don't know the answer I will investigate it
 - 💞️ I’m looking to collaborate on ... Blue Diamond Innovation, Freelancer
 - 📫 How to reach me ... [ Jonathan Aldair ](https://www.linkedin.com/in/jonathan-aldair-perez-aguirre-b296131ba/)
