@@ -69,5 +69,6 @@ Technology enthusiast and passionate programmer since age 17. I love participati
 ### CMS & Others
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-8DB543?style=flat-square&logo=shopify&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 
 
