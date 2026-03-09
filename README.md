@@ -11,10 +11,10 @@
 
 Technology enthusiast and passionate programmer since age 17. I love participating in projects and my desire to learn is in constant motion.
 
-- 🔭 I'm currently working on **Blue Diamond Innovation**
-- 🌱 I'm learning **Node.js, React, TypeScript, and English**
+- 🔭 I'm currently working on **Remote Autonome**
+- 🌱 I'm learning **Next.js, Docker, NestJs, DevOps and English**
 - 👯 I'm looking to collaborate on **Full Stack projects**
-- 🤔 I'm looking for help with **Docker, Next.js, NestJS, DevOps, AWS**
+- 🤔 I'm looking for help with **Jenkins, Ngnix**
 - 💬 Ask me about **JavaScript, Node.js, React, or databases**
 - ⚡ Fun fact: **Music lover, movie enthusiast, and video game player**
 
