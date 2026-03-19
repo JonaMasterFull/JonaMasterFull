@@ -14,7 +14,7 @@ Technology enthusiast and passionate programmer since age 17. I love participati
 - 🔭 I'm currently working on **Remote Autonome**
 - 🌱 I'm learning **Next.js, Docker, NestJS, DevOps and English**
 - 👯 I'm looking to collaborate on **Full Stack projects**
-- 🤔 I'm looking for help with **Jenkins, Nginx**
+- 🤔 I'm looking for help with **Jenkins, Nginx, Vue, Nuxt JS, Swelvet**
 - 💬 Ask me about **JavaScript, Node.js, React, or databases**
 - ⚡ Fun fact: **Music lover, movie enthusiast, and video game player**
 
